@@ -1,1 +1,5 @@
-1. 修正重開機Loop
+1. NTP對時優化
+2. 開機後檢查旋轉角度
+3. 優化SchedulerViewModel
+4. 修正開機後無啟動休眠
+5. 修正AOC滑數Cursor不顯示
