@@ -1,8 +1,4 @@
-1. NTP對時優化
-2. 優化SchedulerViewModel
-3. 修正開機後無啟動休眠
-4. 修正AOC滑數Cursor不顯示
-5. 修正Sticker排序錯誤
-6. DN72, 光晨新增截圖功能
-7. 每分鐘檢查有效計畫廣告
-8. 優化下載回報時序
+1. 修正影片Loop判斷
+2. 修正Scheduler疊加問題
+3. 新增url打錯後的補正
+4. 註冊後Token需重新生效
